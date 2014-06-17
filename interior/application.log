@@ -1,0 +1,1251 @@
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 07:58:02 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 07:59:43 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:03:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:03:14 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:03:18 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:04:03 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (323)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+2013/08/14 08:04:06 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (352)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (352)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (352)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (108)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (352)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (352)
+2013/08/14 08:04:43 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (352)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:04:47 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (323)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+2013/08/14 08:04:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (328)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:07:47 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:50 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:50 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:50 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:50 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:07:50 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:07:50 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:07:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:12:10 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:12:12 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:23:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:23:36 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:30:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:30:55 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:31:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 08:34:25 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 08:34:35 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 09:00:03 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:56 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:56 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:56 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 09:37:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 09:59:03 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:02:35 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 10:14:52 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:14:55 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:14:55 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:14:56 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 10:43:14 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (254)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/08/14 10:50:20 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/08/14 10:50:26 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1838)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `fx_details`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `fx_details`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.db.CDbCommand] Querying SQL: select count(*) from fx_details  
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/FxDetails.php (202)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1864)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.db.CDbCommand] Querying SQL: select * from fx_details   order by fx_id desc LIMIT 10
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/FxDetails.php (211)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1864)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/admin/fxList.php (78)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:52 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:37:54 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:38:08 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `country`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (46)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT *
+FROM `country`
+ORDER BY `name`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Country.php (93)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (47)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (266)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+2013/09/24 12:40:54 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (49)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:40:58 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/TemplatemasterController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/TemplatemasterController.php (33)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (983)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Validation.php (72)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1288)
+2013/09/24 12:41:20 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (983)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Validation.php (72)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1288)
+2013/09/24 12:41:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT `loginId`
+FROM `users`
+WHERE loginId=:loginId
+ORDER BY `id` ASC
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (988)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Validation.php (72)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1288)
+2013/09/24 12:41:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (743)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1298)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `users`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (127)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (827)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1298)
+2013/09/24 12:41:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (127)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (827)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1298)
+2013/09/24 12:41:20 [trace] [system.db.ar.CActiveRecord] Users.insert()
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (165)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (829)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1298)
+2013/09/24 12:41:20 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `users` (`loginId`, `loginIdType`, `status`, `isVerified`, `firstName`, `comapanyNameTemp`, `phoneNumberTemp`, `lastName`, `password`, `modifiedAt`, `createdAt`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (165)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/Users.php (829)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1298)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1355)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1356)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1356)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1356)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/themes/basic/views/layouts/main.php (266)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (5)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1356)
+2013/09/24 12:41:22 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/SiteController.php (1356)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:25 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (44)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "db" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW COLUMNS FROM `fx_details`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `fx_details`
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1863)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.db.CDbCommand] Querying SQL: select count(*) from fx_details  
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/FxDetails.php (202)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1864)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+2013/09/24 12:41:32 [trace] [system.db.CDbCommand] Querying SQL: select * from fx_details   order by fx_id desc LIMIT 10
+in /var/www/vhosts/kwexc.com/httpdocs/protected/models/FxDetails.php (211)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1864)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "user" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/admin/fxList.php (78)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/views/layouts/column1.php (1)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+2013/09/24 12:41:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (1881)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/AdminController.php (45)
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:33 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/vhosts/kwexc.com/httpdocs/index.php (36)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "viewRenderer" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
+2013/09/24 12:41:36 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/vhosts/kwexc.com/httpdocs/protected/controllers/WpController.php (10)
+in /var/www/vhosts/kwexc.com/httpdocs/protected/components/ExceptionHandler.php (21)
